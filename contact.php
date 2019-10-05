@@ -17,7 +17,7 @@
     <link href="assets/css/bootstrap-theme.css" rel="stylesheet">
     <link href="assets/css/style.css" rel="stylesheet">
     <link href="assets/css/msform.css" rel="stylesheet">
-    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -72,7 +72,7 @@
             
             <div id="result" class="contact_p" style="padding-bottom:10px;"></div>
             
-            <form action="http://www.topsolaroffers.com/contact_us.php" id="main-contact-form" class="contact-form row" name="contact-form" method="post">
+            <form action="//www.topsolaroffers.com/contact_us.php" id="main-contact-form" class="contact-form row" name="contact-form" method="post">
                 <div class="form-group col-md-12">
                     <input type="text" id="name" name="name" class="form-control" required placeholder="Name">
                 </div>
