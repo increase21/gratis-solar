@@ -7,19 +7,6 @@
     <title>Contact Us</title>
     
     <link rel="shortcut icon" href="assets/img/favico.ico" type="image/x-icon" />
-    <!-- <link rel="apple-touch-icon" sizes="57x57" href="assets/img/icons/apple-touch-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="assets/img/icons/apple-touch-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="assets/img/icons/apple-touch-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="assets/img/icons/apple-touch-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="assets/img/icons/apple-touch-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="assets/img/icons/apple-touch-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="assets/img/icons/apple-touch-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="assets/img/icons/apple-touch-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/img/icons/apple-touch-icon-180x180.png">
-    <link rel="icon" type="image/png" href="assets/img/icons/favicon-16x16.png" sizes="16x16">
-    <link rel="icon" type="image/png" href="assets/img/icons/favicon-32x32.png" sizes="32x32">
-    <link rel="icon" type="image/png" href="assets/img/icons/favicon-96x96.png" sizes="96x96">
-    <link rel="icon" type="image/png" href="assets/img/icons/android-chrome-192x192.png" sizes="192x192"> -->
     <meta name="msapplication-square70x70logo" content="/assets/img/icons/smalltile.png" />
     <meta name="msapplication-square150x150logo" content="/mediumtile.png" />
     <meta name="msapplication-wide310x150logo" content="/assets/img/icons/widetile.png" />
@@ -39,35 +26,6 @@
     <![endif]-->
 	
 	<script type="text/javascript" src="assets/js/jquery-2.1.4.min.js"></script>
-
-<script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
-for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f)}})(document,window.mixpanel||[]);
-mixpanel.init("0ae106cc36b54d2abb2745f305a1347f");</script>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-68307397-2', 'auto');
-  ga('require', 'linkid');
-  ga('send', 'pageview');
-</script>
-<script type="text/javascript">
-	setTimeout(function(){var a=document.createElement("script");
-	var b=document.getElementsByTagName("script")[0];
-	a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0042/8368.js?"+Math.floor(new Date().getTime()/3600000);
-	a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-	</script>
-<script type="text/javascript">
-!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-document,'script','https://connect.facebook.net/en_US/fbevents.js');
-
-fbq('init', '265033050555792');
-fbq('track', "PageView");</script>
-<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=265033050555792&ev=PageView&noscript=1" /></noscript>
 </head><body id="index">
 	<nav class="navbar navbar-default navbar-fixed-top" role="navigation" data-offset-top="550">
       <div class="container-fluid bg-blue-drk">
@@ -128,7 +86,7 @@ fbq('track', "PageView");</script>
                     <textarea name="message" id="message" required class="form-control" rows="8" placeholder="Your Comment Here"></textarea>
                 </div>                        
                 <div class="form-group col-md-12">
-                    <input type="button" OnClick="sendInquiry();" name="submit" class="btn_css2" value="SEND">
+                    <input type="button" OnClick="sendInquiry();" name="submit" class="btn_css2 btn btn-primary" value="SEND">
                 </div>
             </form>
             
