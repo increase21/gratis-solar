@@ -83,7 +83,7 @@
             
             <h3>Introduction</h3>
             <p class="justify">
-                Thank you for visiting topsolaroffers.com a site run by Intelligent Media Group. Intelligent Media Group                ("we", "us") is committed to protecting the privacy of your personally identifiable information. We provide this privacy 
+                Thank you for visiting Topsolaroffers.com. Topsolaroffers.com ("we", "us") is committed to protecting the privacy of your personally identifiable information. We provide this privacy 
                 policy ("Privacy Policy") in order to explain our online information practices and the choices you can make about the way 
                 your information is used by us. You must agree to this Privacy Policy, in its entirety, including our use of cookies. 
                 Your acceptance of both this Privacy Policy and our use of cookies on the Site shall be deemed a blanket acceptance of such 

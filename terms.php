@@ -78,7 +78,7 @@
           
             <h1>Terms of Service</h1>
             <p><b>Last Updated:  November 1, 2015</b></p>
-          <p class="justify">Intelligent Media Group ("IMG", "we," "us" or "our", "Company"), a division of IHI a Florida corporation, operates several websites, including this website (each a "Site"
+          <p class="justify">Topsolaroffers ("IMG", "we," "us" or "our", "Company"), a division of IHI a Florida corporation, operates several websites, including this website (each a "Site"
            and collectively, the "Sites"). By using or accessing this Site, a mobile application of this Site, or any of the Site's Content (as defined below), you acknowledge that you
             agree to and are subject to the following terms and conditions of service (the "Terms"). If you do not fully agree to these Terms, you may not access or otherwise use the
              Site. You should read through all the Terms carefully. The Terms constitute a legally binding agreement between you and IMG that is the owner or operator of the
@@ -284,7 +284,7 @@
                    <p class="justify"><b>15. Notices.</b> Except as explicitly stated otherwise, any notices shall be submitted (in the case of you contacting us) by certified postal mail, return receipt 
                     requested, to:<br />
           <br />
-          Intelligent Media Group <br />
+          Topsolaroffers <br />
           1655 Palm Beach Lakes Blvd.<br>Suite C-1005<br>West Palm Beach, FL 33401<br />
           Attn:  Legal Dept.<br />
           <br />
