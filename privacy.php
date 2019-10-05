@@ -301,7 +301,7 @@
 
                 <div class="row">
                     <div class="col-lg-12">
-                        <p class="copyright">Copyright &copy; 2019 topsolaroffers.com</p>
+                        <p class="copyright">Copyright &copy; 2019 Topsolaroffers.com</p>
                     </div>
                 </div>
             </div>
