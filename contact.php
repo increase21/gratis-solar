@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Contact Us</title>
     
-    <link rel="shortcut icon" href="assets/img/icons/favicon.ico" type="image/x-icon" />
-    <link rel="apple-touch-icon" sizes="57x57" href="assets/img/icons/apple-touch-icon-57x57.png">
+    <link rel="shortcut icon" href="assets/img/favico.ico" type="image/x-icon" />
+    <!-- <link rel="apple-touch-icon" sizes="57x57" href="assets/img/icons/apple-touch-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="assets/img/icons/apple-touch-icon-60x60.png">
     <link rel="apple-touch-icon" sizes="72x72" href="assets/img/icons/apple-touch-icon-72x72.png">
     <link rel="apple-touch-icon" sizes="76x76" href="assets/img/icons/apple-touch-icon-76x76.png">
@@ -19,7 +19,7 @@
     <link rel="icon" type="image/png" href="assets/img/icons/favicon-16x16.png" sizes="16x16">
     <link rel="icon" type="image/png" href="assets/img/icons/favicon-32x32.png" sizes="32x32">
     <link rel="icon" type="image/png" href="assets/img/icons/favicon-96x96.png" sizes="96x96">
-    <link rel="icon" type="image/png" href="assets/img/icons/android-chrome-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="assets/img/icons/android-chrome-192x192.png" sizes="192x192"> -->
     <meta name="msapplication-square70x70logo" content="/assets/img/icons/smalltile.png" />
     <meta name="msapplication-square150x150logo" content="/mediumtile.png" />
     <meta name="msapplication-wide310x150logo" content="/assets/img/icons/widetile.png" />
@@ -70,7 +70,7 @@ fbq('track', "PageView");</script>
 <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=265033050555792&ev=PageView&noscript=1" /></noscript>
 </head><body id="index">
 	<nav class="navbar navbar-default navbar-fixed-top" role="navigation" data-offset-top="550">
-      <div class="container-fluid">
+      <div class="container-fluid bg-blue-drk">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
           <button type="button" id="hamburger-button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
@@ -81,7 +81,7 @@ fbq('track', "PageView");</script>
           </button>
          
 			
-		<img src="assets/img/logo.png" id="logo_img_size" height="36">
+		<img src="assets/img/logo-text.jpg" id="logo_img_size" height="36">
 			
 		
         </div>
@@ -98,7 +98,7 @@ fbq('track', "PageView");</script>
       </div><!-- /.container-fluid -->
     </nav>
     
-    <section class="privacyTerms">
+    <section class="privacyTerms" style="padding-top:6rem">
       <div class="container">
         <div class="row">
           <div class="col-lg-6 col-lg-offset-3">
@@ -114,7 +114,7 @@ fbq('track', "PageView");</script>
             
             <div id="result" class="contact_p" style="padding-bottom:10px;"></div>
             
-            <form action="http://www.solarebate.com/contact_us.php" id="main-contact-form" class="contact-form row" name="contact-form" method="post">
+            <form action="http://www.topsolaroffers.com/contact_us.php" id="main-contact-form" class="contact-form row" name="contact-form" method="post">
                 <div class="form-group col-md-12">
                     <input type="text" id="name" name="name" class="form-control" required placeholder="Name">
                 </div>
@@ -228,7 +228,7 @@ fbq('track', "PageView");</script>
 
                 <div class="row">
                     <div class="col-lg-2">
-                        <img src="assets/img/logo.png" alt="logo" class="img-responsive footer-logo">
+                        <img src="assets/img/logo-solar.png" alt="logo" class="img-responsive footer-logo">
                     </div>
                     <div class="col-lg-10 disclaimer">
                         <p>
@@ -261,7 +261,7 @@ fbq('track', "PageView");</script>
 
                 <div class="row">
                     <div class="col-lg-12">
-                        <p class="copyright">Copyright &copy; 2019 Solarebate.com</p>
+                        <p class="copyright">Copyright &copy; 2019 Topsolaroffers.com</p>
                     </div>
                 </div>
             </div>
@@ -269,18 +269,18 @@ fbq('track', "PageView");</script>
         
 		<script type="text/javascript">
 /* <![CDATA[ */
-var google_conversion_id = 993453260;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
+// var google_conversion_id = 993453260;
+// var google_custom_params = window.google_tag_params;
+// var google_remarketing_only = true;
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
+<!-- <script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js"> -->
+<!-- </script> -->
+<!-- <noscript>
 <div style="display:inline;">
 <img height="1" width="1" style="border-style:none;" alt="" src="http://googleads.g.doubleclick.net/pagead/viewthroughconversion/993453260/?value=0&amp;guid=ON&amp;script=0"/>
 </div>
-</noscript>
+</noscript> -->
         
     </footer>
 
