@@ -993,10 +993,25 @@ footer .copyright {
    background: #3d81f4;
 }
 
+.bg-red {
+   background: red;
+   color: white
+}
+
 .white-text {
    color: #fff;
    line-height: 1.5;
    font-size: 16px
+}
+
+.green-text {
+   color: green;
+   line-height: 1.5;
+}
+
+.red-text {
+   color: red;
+   line-height: 1.5;
 }
 
 /* (320x480) Smartphone, Portrait */
