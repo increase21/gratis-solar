@@ -123,6 +123,7 @@ function DoSignup(form) {
          .done(function (data) {
             if (data == 'Success') {
                $('.modal-dynamic-content').html(textSuccess)
+               fbq('track', 'CompleteRegistration');
             }
             else {
                $('.modal-dynamic-content').html(textFail)
