@@ -101,7 +101,7 @@ function doZipLookup() {
 
    $.ajax({
       type: "GET",
-      url: 'http://api.zippopotam.us/us/' + zipcode,
+      url: 'https://api.zippopotam.us/us/' + zipcode,
       dataType: 'json',
       beforeSend: function () {
          // nothing
