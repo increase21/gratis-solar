@@ -1014,6 +1014,10 @@ footer .copyright {
    line-height: 1.5;
 }
 
+.blue-text {
+   color: blue !important
+}
+
 /* (320x480) Smartphone, Portrait */
 @media only screen and (min-width: 320px) and (max-width: 550px) {
    .section-top {
@@ -1033,6 +1037,11 @@ footer .copyright {
    .box-advantage {
       min-height: 15.5em;
       padding: 15px 1em;
+      margin-bottom: 2em
+   }
+
+   .box-advantage h6 {
+      font-size: 110%;
    }
 
    .box-saving h3 {
@@ -1060,6 +1069,11 @@ footer .copyright {
       font-size: 150%;
    }
 
+   .section-title h2 {
+      font-size: 180%;
+      color: #363636;
+   }
+
 }
 
 @media only screen and (max-width: 768px) {
@@ -1067,6 +1081,7 @@ footer .copyright {
       text-align: center;
    }
 }
+
 
 /* (1366x768) WXGA Display */
 @media screen and (min-width: 1366px) {

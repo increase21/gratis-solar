@@ -78,10 +78,10 @@
           
             <h1>Terms of Service</h1>
             <p><b>Last Updated:  November 1, 2015</b></p>
-          <p class="justify">Topsolaroffers ("IMG", "we," "us" or "our", "Company"), a division of IHI a Florida corporation, operates several websites, including this website (each a "Site"
+          <p class="justify">Topsolaroffers ("Topsolaroffers", "we," "us" or "our", "Company"), operates several websites, including this website (each a "Site"
            and collectively, the "Sites"). By using or accessing this Site, a mobile application of this Site, or any of the Site's Content (as defined below), you acknowledge that you
             agree to and are subject to the following terms and conditions of service (the "Terms"). If you do not fully agree to these Terms, you may not access or otherwise use the
-             Site. You should read through all the Terms carefully. The Terms constitute a legally binding agreement between you and IMG that is the owner or operator of the
+             Site. You should read through all the Terms carefully. The Terms constitute a legally binding agreement between you and Topsolaroffers that is the owner or operator of the
               Site. You covenant, represent and warrant that you have any and all authorizations as may be necessary to enter into this agreement and that your use of the Site,
                including provision or use of any Content (defined below), does not violate any applicable law. If you are using the Site on behalf of an employer or other entity,
                 you represent and warrant that you have the authority to bind such entity to the Terms.</p>
@@ -102,23 +102,23 @@
                Solar savings. We are not involved in the actual transaction between any Prospect and any Provider even though we may, through our Site or other affiliate sites, and with each Prospect's 
                 authorization, collect certain information (collectively, a "Lead") about any Prospect and sell such Lead to a Provider. As a result, the quality, safety or legality of the products or services 
                  offered by any Provider for sale, the truth or accuracy of the representations regarding such products or services, the ability of Providers to offer, sell or deliver such products or services 
-                  or the ability of Prospects to pay for the products or services offered are solely the responsibility of each user and not IMG. We are an independent contractor for all purposes. We are not 
+                  or the ability of Prospects to pay for the products or services offered are solely the responsibility of each user and not Topsolaroffers. We are an independent contractor for all purposes. We are not 
                    responsible in any way for the conduct of any Prospect or Provider. We do not endorse or recommend any Providers, companies or insurance policies, products or services offered by any Provider. 
                     We do not provide insurance, tax, legal or any other financial advice. We do not guarantee that any of the Providers to whom we forward any Prospect's application or information will contact 
                      such Prospect or agree to provide the Prospect with the desired or requested information. If you are a Prospect and you would like personal advice or recommendations, please consult your 
                       qualified solar professional.</p>
           
           <p class="justify">Your location or state may determine varied results, we do not take any responsibility on whether or not you save money. You may not be matched with the Provider making any specific 
-           quote or offer that is suitable for your individual situation. Although IMG is compensated by Providers when we display advertisements for their products or services to you and/or when you respond to a 
-            quote or offer or another product or service from a Provider, IMG does not make any decisions in connection with the offering of any product or service. Any compensation from Providers is payment for IMG's 
+           quote or offer that is suitable for your individual situation. Although Topsolaroffers is compensated by Providers when we display advertisements for their products or services to you and/or when you respond to a 
+            quote or offer or another product or service from a Provider, Topsolaroffers does not make any decisions in connection with the offering of any product or service. Any compensation from Providers is payment for Topsolaroffers's 
              services, tools and facilities. Your use of the Site and/or the Service constitutes your agreement with this compensation arrangement.</p>
           
           <p class="justify">The Site and the products and services provided or advertised on and through the Site may not be available in all states, and the availability of such services and the products offered on 
            and through the Site may change from to time without notice. We or our service providers are not attempting to offer products or services that are outside of their authorized states or country. Providers may 
             discontinue, suspend or terminate the offering or other product or service in any specific state through the Site at any time, without prior notice.</p>
           
-          <p class="justify">The data and other information you may provide IMG is not, and is not treated as, an application for a pre-approved, pre-qualified or any similar concept. IMG does not guarantee acceptance into 
-           any particular program or specific terms or conditions with any service Provider; approval standards are established and maintained solely by individual service Providers. Likewise, IMG does not guarantee that the 
+          <p class="justify">The data and other information you may provide Topsolaroffers is not, and is not treated as, an application for a pre-approved, pre-qualified or any similar concept. Topsolaroffers does not guarantee acceptance into 
+           any particular program or specific terms or conditions with any service Provider; approval standards are established and maintained solely by individual service Providers. Likewise, Topsolaroffers does not guarantee that the 
             terms or rates offered and made available by Providers are the best terms or lowest rates available in the market. A Provider's offer may be subject to market conditions, approval and qualification (including possibly a 
              credit check). The rates and fees actually provided by Providers may be higher or lower depending on your complete profile and other considerations used by the Providers. Unless expressly stated in writing, nothing 
               contained herein shall constitute an offer or promise for a commitment or guaranteed agreement. Providers may not offer all products featured on the Site. You might not be matched with the Provider making any specific offer. 
@@ -127,8 +127,8 @@
                  of you. During the Provider application process, they may also ask for additional information.</p>
               
            <p class="justify">By clicking on any submit button is an indication of an acceptance or agreement to terms, a continuance of processing or additional information or any other submission ("submission"), you understand that you are agreeing 
-            to the stated terms and conditions of that submission and that you are submitting an inquiry solar discounts or rebates or another product or service through IMG to each of the Providers to whom your request is transmitted. By including your 
-             telephone number and email address in any submission, you are extending an express invitation and providing your express written consent to IMG and to each and every Provider you have been matched with (i) to contact you by telephone at 
+            to the stated terms and conditions of that submission and that you are submitting an inquiry solar discounts or rebates or another product or service through Topsolaroffers to each of the Providers to whom your request is transmitted. By including your 
+             telephone number and email address in any submission, you are extending an express invitation and providing your express written consent to Topsolaroffers and to each and every Provider you have been matched with (i) to contact you by telephone at 
               the numbers you have provided (including through auto-dialed, pre-recorded, artificial voice and/or text messages) so they may assist you with your transaction, and you hereby consent to any such calls or texts even if your phone number 
                is on any corporate, state or national Do Not Call list or registry, or (ii) to contact you by email at any email address you provided. You understand that you are not required to provide your consent as a condition of purchasing any goods 
                 or services. For SMS and MMS text messaging, message and data rates imposed by your mobile data provider may apply. You represent that all of the information you have provided in your submission is true and complete.</p>
@@ -152,7 +152,7 @@
                    on the Site and/or available through the Service (collectively, the "Content") are only for each user's personal use in accordance with the limited license grant contained herein or (in the case of Providers) also pursuant to any separate written 
                     agreement. All Content on the Site, and the Site itself, is protected by copyright and database rights, and you will abide by any and all additional copyright (or other proprietary) notices, information, or restrictions contained in or relating 
                      to any Content on the Site. Copying or storing of any Content other than for your personal, noncommercial use is expressly prohibited without the prior written permission from us or the applicable copyright holder. All trade and service marks and 
-                      logos used on the Sites (including, without limitation, the Site's domain name) are the exclusive property of IMG or its licensors (as applicable), you may not copy or use them in any manner and all goodwill arising from the usage thereof shall 
+                      logos used on the Sites (including, without limitation, the Site's domain name) are the exclusive property of Topsolaroffers or its licensors (as applicable), you may not copy or use them in any manner and all goodwill arising from the usage thereof shall 
                        inure to our (or our licensors', as applicable) sole benefit. </p>
                   <br />
                   <p class="justify"><b>4. Unauthorized Use.</b> Unless otherwise provided within these Terms, or unless otherwise applicable law requires us to allow you to do so, you may not do any of the
@@ -190,7 +190,7 @@
            with or without notice. We may also impose limits on certain features or services or restrict your access to parts or all of the Site without notice to you
             or liability to us.</p>
           <br />
-          <p class="justify"><b>6. Your Email Address and Our Privacy Policy.</b> When you use the Site to send an inquiry to us or make a submission, you agree to allow the Site, IMG           and our affiliates to add your email address to our database of users. You may receive one or more marketing emails from the Site, IMG and/or our
+          <p class="justify"><b>6. Your Email Address and Our Privacy Policy.</b> When you use the Site to send an inquiry to us or make a submission, you agree to allow the Site, Topsolaroffers           and our affiliates to add your email address to our database of users. You may receive one or more marketing emails from the Site, Topsolaroffers and/or our
             affiliates. You may opt not to receive such marketing emails from us at any time. Please review our <a href="privacy.php">Privacy Policy</a> for more information regarding our information
              collection practices and safeguards, and how to opt not to receive such emails. Your use of the Site signifies your acknowledgement of and agreement with our <a href="privacy.php">Privacy 
              Policy</a>, which is expressly incorporated into these Terms.</p>
@@ -203,20 +203,20 @@
           <p class="justify"><b>8. Identity Verification.</b>  User verification on the Internet is difficult, and we cannot and do not confirm each user's purported identity. We encourage you
            to use appropriate caution with anyone with whom you may be doing business via the Site or the Internet, generally.  When you give someone your online ID and online
             password, you are authorizing that person to access and use your account, and you are responsible for any and all transactions that person performs while using your
-             account, even those transactions that are fraudulent or that you did not intend or want performed.  EACH USER ACKNOWLEDGES AND AGREES THAT: (i) NEITHER IMG              NOR ANY OF ITS AFFILIATES WILL HAVE ANY LIABILITY TO ANY USER FOR ANY UNAUTHORIZED TRANSACTION MADE USING ANY USER'S ONLINE ID AND PASSWORD THAT OCCURS BEFORE SUCH
+             account, even those transactions that are fraudulent or that you did not intend or want performed.  EACH USER ACKNOWLEDGES AND AGREES THAT: (i) NEITHER TOPSOLAROFFERS              NOR ANY OF ITS AFFILIATES WILL HAVE ANY LIABILITY TO ANY USER FOR ANY UNAUTHORIZED TRANSACTION MADE USING ANY USER'S ONLINE ID AND PASSWORD THAT OCCURS BEFORE SUCH
                USER HAS NOTIFIED US OF POSSIBLE UNAUTHORIZED USE OF SUCH ONLINE ID AND PASSWORD AND WE HAVE HAD A REASONABLE OPPORTUNITY TO ACT ON THAT NOTICE; AND (ii) THE
-                UNAUTHORIZED USE OF YOUR ONLINE ID AND PASSWORD COULD CAUSE YOU TO INCUR LIABILITY TO BOTH IMG AND OTHER USERS. Further, we may suspend or cancel your
+                UNAUTHORIZED USE OF YOUR ONLINE ID AND PASSWORD COULD CAUSE YOU TO INCUR LIABILITY TO BOTH TOPSOLAROFFERS AND OTHER USERS. Further, we may suspend or cancel your
                  account or your access to the Site and/or the Service at any time with or without notice if we suspect that your account and/or password is being used in an
                   unauthorized or fraudulent manner.</p>
               <br />
-              <p class="justify"><b>9. Limitation of Liability.</b> IN NO EVENT WILL IMG, OUR AFFILIATES, OFFICERS, MEMBERS, MANAGERS, DIRECTORS, AGENTS AND/OR EMPLOYEES (COLLECTIVELY,
-               THE "IMG GROUP") BE LIABLE FOR ANY LOST PROFITS OR DATA OR ANY INDIRECT, CONSEQUENTIAL, SPECIAL, INCIDENTAL, OR PUNITIVE DAMAGES ARISING OUT OF, BASED
+              <p class="justify"><b>9. Limitation of Liability.</b> IN NO EVENT WILL TOPSOLAROFFERS, OUR AFFILIATES, OFFICERS, MEMBERS, MANAGERS, DIRECTORS, AGENTS AND/OR EMPLOYEES (COLLECTIVELY,
+               THE "TOPSOLAROFFERS GROUP") BE LIABLE FOR ANY LOST PROFITS OR DATA OR ANY INDIRECT, CONSEQUENTIAL, SPECIAL, INCIDENTAL, OR PUNITIVE DAMAGES ARISING OUT OF, BASED
                 ON, OR RESULTING FROM OUR SITES OR SERVICE, THESE TERMS, YOUR USE OF THE SITE OR THE SERVICE AND/OR ANY TRANSACTION BETWEEN PROVIDERS AND PROSPECTS OR BETWEEN SITE
                  USERS, GENERALLY, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBLITY OF SUCH DAMAGES. THESE LIMITATIONS AND EXCLUSIONS APPLY WITHOUT REGARD TO WHETHER THE DAMAGES ARISE FROM
                   (i) BREACH OF CONTRACT, (ii) BREACH OF WARRANTY, (iii) STRICT LIABILITY, (iv) TORT, (v) NEGLIGENCE, OR (vi) ANY OTHER CAUSE OF ACTION, TO THE MAXIMUM EXTENT SUCH EXCLUSION 
                   AND LIMITATIONS ARE NOT PROHIBITED BY APPLICABLE LAW. IF YOU ARE DISSATISFIED WITH THE SITE OR THE SERVICE, IF YOU DO NOT AGREE WITH ANY PART OF THESE TERMS, OR IF YOU HAVE 
-                  ANY OTHER DISPUTE OR CLAIM WITH OR AGAINST THE IMG GROUP, ANOTHER USER OR THE SITE WITH RESPECT TO THESE TERMS OR THE SITE ITSELF, THEN YOUR SOLE AND EXCLUSIVE REMEDY
-                   AGAINST US IS TO DISCONTINUE USING THE SITE AND THE SERVICE. IN ALL EVENTS, OUR LIABILITY, AND THE LIABILITY OF ANY MEMBER OF THE IMG GROUP, TO YOU OR TO ANY THIRD PARTY
+                  ANY OTHER DISPUTE OR CLAIM WITH OR AGAINST THE TOPSOLAROFFERS GROUP, ANOTHER USER OR THE SITE WITH RESPECT TO THESE TERMS OR THE SITE ITSELF, THEN YOUR SOLE AND EXCLUSIVE REMEDY
+                   AGAINST US IS TO DISCONTINUE USING THE SITE AND THE SERVICE. IN ALL EVENTS, OUR LIABILITY, AND THE LIABILITY OF ANY MEMBER OF THE TOPSOLAROFFERS GROUP, TO YOU OR TO ANY THIRD PARTY
                     IN ANY CIRCUMSTANCE ARISING OUT OF OR IN CONNECTION WITH THE SITE OR THE SERVICE, IN THE AGGREGATE FOR ANY AND ALL CLAIMS, IS LIMITED TO $100.00.</p>
                     <br />
                 <p class="justify"><b>10. Disclaimer.</b> THE SITES AND THE SERVICE, INCLUDING ALL CONTENT, SOFTWARE, FUNCTIONS, SERVICES, MATERIALS AND INFORMATION MADE AVAILABLE ON OR
@@ -229,7 +229,7 @@
                     SO THE ABOVE EXCLUSION MAY NOT APPLY TO YOU.</p>
                     <br />
                  <p class="justify"><b>11. Release.</b> IN THE EVENT THAT YOU HAVE A DISPUTE WITH ONE OR MORE OTHER USERS OF THE SITE (INCLUDING, WITHOUT LIMITATION, ANY DISPUTE BETWEEN ANY PROVIDER AND PROSPECT
-                  REGARDING ANY TRANSACTION), YOU HEREBY AGREE TO RELEASE, REMISE AND FOREVER DISCHARGE THE SITE AND EACH MEMBER OF THE IMG GROUP, EACH OF THEIR RESPECTIVE AGENTS,
+                  REGARDING ANY TRANSACTION), YOU HEREBY AGREE TO RELEASE, REMISE AND FOREVER DISCHARGE THE SITE AND EACH MEMBER OF THE TOPSOLAROFFERS GROUP, EACH OF THEIR RESPECTIVE AGENTS,
                    DIRECTORS, OFFICERS, MEMBERS, MANAGERS, EMPLOYEES, SUCCESSORS AND ALL OTHER RELATED PERSONS OR ENTITIES FROM ANY AND ALL MANNER OF RIGHTS, CLAIMS, COMPLAINTS, SUITS, DEMANDS,
                     CAUSES OF ACTION, PROCEEDINGS, LIABLITIES, OBLIGATIONS, LEGAL FEES, COSTS, AND DISBURSEMENTS OF ANY NATURE WHATSOEVER, WHETHER KNOWN OR UNKNOWN, WHICH NOW OR HEREAFTER ARISE
                      FROM, RELATE TO, OR ARE CONNECTED WITH SUCH DISPUTE AND/OR YOUR USE OF THE SITES OR THE SERVICE. IF YOU ARE A CALIFORNIA RESIDENT, YOU WAIVE CALIFORNIA CIVIL CODE SECTION 1542,
@@ -237,11 +237,11 @@
                        IF KNOWN BY HIM OR HER MUST HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR" (OR ANY EQUIVALENT STATUTORY PROVISION WITH A SIMILAR IMPORT OR INTENT).  IF YOU ARE
                         A RESIDENT OF A STATE OTHER THAN CALIFORNIA, YOU EXPLICITLY WAIVE THE TERMS AND PROTECTIONS OF ANY STATUTE OF YOUR OWN STATE THAT HAS A SIMILAR IMPORT OR INTENT.</p>
                         <br />
-                    <p class="justify"><b>12. Indemnity.</b> YOU HEREBY AGREE TO INDEMNIFY, DEFEND AND HOLD THE SITE AND EACH MEMBER OF THE IMG GROUP (COLLECTIVELY, THE "INDEMNIFIED PARTIES")
+                    <p class="justify"><b>12. Indemnity.</b> YOU HEREBY AGREE TO INDEMNIFY, DEFEND AND HOLD THE SITE AND EACH MEMBER OF THE TOPSOLAROFFERS GROUP (COLLECTIVELY, THE "INDEMNIFIED PARTIES")
                      HARMLESS FROM AND AGAINST ANY AND ALL LIABILITY AND COSTS (INCLUDING, WITHOUT LIMITATION, ATTORNEYS' FEES AND COSTS) INCURRED BY THE INDEMNIFIED PARTIES IN CONNECTION 
                      WITH ANY CLAIM ARISING OUT OF YOUR USE OF THE SITES (INCLUDING, WITHOUT LIMITATION, ANY DISPUTE BETWEEN A PROVIDER AND PROSPECT REGARDING ANY TRANSACTION), ANY ACT
                       (OR FAILURE TO ACT) BY YOU OR OTHER USERS OF YOUR ACCOUNT OR ANY BREACH BY YOU OF THESE TERMS OR THE REPRESENTATIONS, WARRANTIES AND COVENANTS MADE BY YOU HEREIN. YOU 
-                      SHALL COOPERATE AS FULLY AS REASONABLY REQUIRED IN THE DEFENSE OF ANY CLAIM. THE IMG GROUP RESERVES THE RIGHT, AT OUR OWN EXPENSE, TO ASSUME THE EXCLUSIVE DEFENSE 
+                      SHALL COOPERATE AS FULLY AS REASONABLY REQUIRED IN THE DEFENSE OF ANY CLAIM. THE TOPSOLAROFFERS GROUP RESERVES THE RIGHT, AT OUR OWN EXPENSE, TO ASSUME THE EXCLUSIVE DEFENSE 
                       AND CONTROL OF ANY MATTER OTHERWISE SUBJECT TO INDEMNIFICATION BY YOU AND YOU SHALL NOT IN ANY EVENT SETTLE ANY MATTER WITHOUT OUR PRIOR WRITTEN CONSENT.</b>
                       <br />
                       <p class="justify"><b>13. Jurisdiction; Dispute Resolution; Arbitration. <br />
@@ -249,37 +249,37 @@
               <ol type="A">
                 <li class="nostyle">These Terms shall be treated as though they were executed and performed in the State of Florida and shall be governed by and construed in
                  accordance with the laws of the United States of America and State of Florida (without regard to conflict of law principles).</li>
-                <li class="nostyle">SHOULD A DISPUTE ARISE BETWEEN YOU AND IMG (OR, WITH RESPECT TO DISPUTES INVOLVING YOUR DATA SUBMITTED THROUGH ANY SITE OR THE SERVICE, BETWEEN
+                <li class="nostyle">SHOULD A DISPUTE ARISE BETWEEN YOU AND TOPSOLAROFFERS (OR, WITH RESPECT TO DISPUTES INVOLVING YOUR DATA SUBMITTED THROUGH ANY SITE OR THE SERVICE, BETWEEN
                  YOU AND ANY PERSON WHO PURCHASES SUCH DATA) CONCERNING THE TERMS AND CONDITIONS OF THESE TERMS, THE BREACH OF SAME BY ANY PARTY HERETO, ANY DATA SUBMITTED BY YOU, THE SITE
-                  OR SERVICE OR ANY OTHER PRODUCTS OR SERVICES PROVIDED BY IMG, YOU AGREE TO SUBMIT THE DISPUTE FOR RESOLUTION BY ARBITRATION BEFORE THE AMERICAN ARBITRATION ASSOCIATION
+                  OR SERVICE OR ANY OTHER PRODUCTS OR SERVICES PROVIDED BY TOPSOLAROFFERS, YOU AGREE TO SUBMIT THE DISPUTE FOR RESOLUTION BY ARBITRATION BEFORE THE AMERICAN ARBITRATION ASSOCIATION
                    IN ACCORDANCE WITH ITS THEN CURRENT COMMERCIAL ARBITRATION RULES AND THE SUPPLEMENTALRY PROCEDURES FOR CONSUMER RELATED DISPUTES (COLLECTIVELY, "AAA RULES"), AS MODIFIED BY THESE
                     TERMS.   SUCH ARBITRATION SHALL BE ADMINISTERED BY A SINGLE ARBITRATOR. The arbitrator is bound by these Terms and must issue a written decision sufficient to explain the 
                     essential findings and conclusions on which an award is based. All issues are for the arbitrator to decide, except that issues relating to the scope and enforceability of the
                      arbitration provisions in this Section 13 are for a court to decide. ANY AWARD RENDERED SHALL BE FINAL AND CONCLUSIVE TO THE PARTIES, AND A JUDGMENT THEREON MAY BE ENTERED IN
                       ANY COURT OF COMPETENT JURISDICTION. IN THE EVENT THAT ONE OF THE PARTIES TO THE DISPUTE IS A PERSON WHO PURCHASES YOUR DATA SUBMITTED THROUGH THE SITE OR THE SERVICE, THEN SUCH
                        ARBITRATION SHALL BE CONDUCTED IN A LOCATION CONVENIENT TO YOU; OTHERWISE, THE ARBITRATION SHALL BE CONDUCTED IN WEST PALM BEACH, FLORIDA.  YOU MAY OPT OUT OF THIS ARBITRATION 
-                       REQUIREMENT BY NOTIFYING IMG IN WRITING AT 1655 PALM BEACH LAKES BLVD., SUITE C-1005, WEST PALM BEACH, FL 33401 THIRTY (30) DAYS AFTER SUBMITTING YOUR DATA THAT IS INVOLVED IN THE DISPUTE.
+                       REQUIREMENT BY NOTIFYING TOPSOLAROFFERS IN WRITING AT 1655 PALM BEACH LAKES BLVD., SUITE C-1005, WEST PALM BEACH, FL 33401 THIRTY (30) DAYS AFTER SUBMITTING YOUR DATA THAT IS INVOLVED IN THE DISPUTE.
                          NOTHING HEREIN SHALL BE CONSTRUED TO PRECLUDE ANY PARTY FROM SEEKING INJUNCTIVE RELIEF IN ANY COURT OF COMPETENT JURISDICTION IN ORDER TO PROTECT ITS INTELLECTUAL PROPERTY OR
                           CONFIDENTIAL INFORMATION.</li>
                       <li class="nostyle">TO THE EXTENT PERMITTED BY LAW, YOU AGREE THAT YOU WILL NOT BRING, JOIN OR PARTICIPATE IN ANY CLASS ACTION LAWSUIT, CLASS-WIDE ARBITRATION, CLAIMS BROUGHT
-                       IN A REPRSENTATIVE CAPACITY OR CONSOLIDATED CLAIMS AS TO ANY CLAIM, DISPUTE OR CONTROVERSY THAT YOU MAY HAVE AGAINST IMG OR ITS AFFILIATES (OR, WITH RESPECT
+                       IN A REPRSENTATIVE CAPACITY OR CONSOLIDATED CLAIMS AS TO ANY CLAIM, DISPUTE OR CONTROVERSY THAT YOU MAY HAVE AGAINST TOPSOLAROFFERS OR ITS AFFILIATES (OR, WITH RESPECT
                         TO CAUSES OF ACTION INVOLVING YOUR DATA SUBMITTED THROUGH THE SITE OR THE SERVICE, AGAINST ANY PERSON WHO PURCHASES SUCH DATA), AND/OR THEIR RESPECTIVE EMPLOYEES,
                          OFFICERS, DIRECTORS, MEMBERS, MANAGERS, SHAREHOLDERS, REPRESENTATIVES AND ASSIGNS. YOU AGREE TO THE ENTRY OF INJUNCTIVE RELIEF TO STOP SUCH A LAWSUIT OR TO 
-                         REMOVE YOU AS A PARTICIPANT IN THE SUIT.  YOU AGREE TO PAY THE ATTORNEYS' FEES AND COURT COSTS THAT IMG OR ANY PERSON PURCHASING YOUR DATA INCURS IN
+                         REMOVE YOU AS A PARTICIPANT IN THE SUIT.  YOU AGREE TO PAY THE ATTORNEYS' FEES AND COURT COSTS THAT TOPSOLAROFFERS OR ANY PERSON PURCHASING YOUR DATA INCURS IN
                           SEEKING SUCH RELIEF. THIS PROVISION PREVENTING YOU FROM BRINGING, JOINING OR PARTICIPATING IN CLASS ACTION LAWSUITS AND OTHER CONSOLIDATED CLAIMS IS AN
                            INDEPENDENT AGREEMENT AND DOES NOT CONSTITUTE A WAIVER OF ANY OF YOUR RIGHTS AND REMEDIES TO PURSUE A CLAIM INDIVIDUALLY AND NOT AS A CLASS ACTION IN BINDING
                             ARBITRATION AS PROVIDED ABOVE.  ANY PERSON WHO PURCHASES DATA SUBMITTED BY YOU THROUGH THE SITE OR SERVICE SHALL BE DEEMED A THIRD-PARTY BENEFICIARY OF THE 
-                            FOREGOING PROVISIONS IN THIS SECTION 13 AND SHALL BE ABLE TO ENFORCE SUCH PROVISIONS DIRECTLY AGAINST YOU. Further, unless both you and IMG agree
+                            FOREGOING PROVISIONS IN THIS SECTION 13 AND SHALL BE ABLE TO ENFORCE SUCH PROVISIONS DIRECTLY AGAINST YOU. Further, unless both you and Topsolaroffers agree
                              otherwise, the arbitrator may not consolidate more than one person's claims, and may not otherwise preside over any form of a representative or class
                               proceeding. If this specific provision is found to be unenforceable, then the entirety of this arbitration provision shall be null and void. </li>
-                          <li class="nostyle">Should a dispute arise between you and IMG and should the arbitration provisions herein become inapplicable or unenforceable, the parties agree that
+                          <li class="nostyle">Should a dispute arise between you and Topsolaroffers and should the arbitration provisions herein become inapplicable or unenforceable, the parties agree that
                            jurisdiction over and venue of any suit shall be exclusively in the state and federal courts sitting in West Palm Beach, Florida, and you hereby consent
                             to the exercise of jurisdiction and venue by such courts. If either party employs attorneys to enforce any right in connection with a dispute or lawsuit,
                              the prevailing party shall be entitled to recover reasonable attorneys' fees.</li>
                       </ol>
 
                     <br />
-                   <p class="justify"><b>14. No Agency.</b> The relationship between IMG and each user is that of independent contractors, and no agency, partnership, joint venture, employee-employer or franchisor-franchisee relations is intended or created by these Terms or your use of the Site.</p>
+                   <p class="justify"><b>14. No Agency.</b> The relationship between Topsolaroffers and each user is that of independent contractors, and no agency, partnership, joint venture, employee-employer or franchisor-franchisee relations is intended or created by these Terms or your use of the Site.</p>
                    <br />
                    <p class="justify"><b>15. Notices.</b> Except as explicitly stated otherwise, any notices shall be submitted (in the case of you contacting us) by certified postal mail, return receipt 
                     requested, to:<br />
@@ -301,41 +301,41 @@
              check the "last updated" date at the top of these Terms so that you can familiarize yourself with any changes.
             </p>
           </br>
-          <p class="justify"><b>17. Copyright Infringement.</b>As IMG asks others to respect its intellectual property rights, it respects the intellectual property rights of others,
+          <p class="justify"><b>17. Copyright Infringement.</b>As Topsolaroffers asks others to respect its intellectual property rights, it respects the intellectual property rights of others,
            and requires its users to do so. If you are a copyright owner or an agent thereof and believe that any third-party Content on the Sites infringes upon
             your copyrights, you may submit a notification pursuant to the Digital Millennium Copyright Act ("DMCA") by providing our Copyright Agent with the following
              information in writing (see 17 U.S.C § 512(c)(3) for further detail):  (i) a physical or electronic signature of a person authorized to act on behalf of the
               owner of an exclusive right that is allegedly infringed; (ii) identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted
                works on or available through our Sites are covered by a single notification, a representative list of such works at those locations; (iii) identification of the
                 material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled and information
-                 reasonably sufficient to permit IMG to locate the material; (iv) information reasonably sufficient to permit us to contact you, such as an address, telephone
+                 reasonably sufficient to permit Topsolaroffers to locate the material; (iv) information reasonably sufficient to permit us to contact you, such as an address, telephone
                   number, and, if available, an electronic mail address;
               (v) a statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent,
                or the law; and (vi) a statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized
-                to act on behalf of the owner of an exclusive right that is allegedly infringed. IMG's designated Copyright Agent to receive notifications
+                to act on behalf of the owner of an exclusive right that is allegedly infringed. Topsolaroffers's designated Copyright Agent to receive notifications
                  of claimed infringement is <b>Copyright Agent</b>, 1655 Palm Beach Lakes Blvd., Suite C-1005, West Palm Beach, FL 33401.  For clarity, only DMCA notices should go to the
-                  Copyright Agent; any other feedback, comments, requests for technical support, and other communications should be directed to IMG's customer
+                  Copyright Agent; any other feedback, comments, requests for technical support, and other communications should be directed to Topsolaroffers's customer
                    service. You acknowledge that if you fail to comply with all of the requirements of this Section, your DMCA notice may not be valid.  In the event
-                    that you believe IMG removed any of your Content in response to a false notice of copyright infringement, you should notify IMG                     promptly in writing pursuant to the DMCA, at the mailing address provided above. Such notification should include: (i) your physical or electronic
+                    that you believe Topsolaroffers removed any of your Content in response to a false notice of copyright infringement, you should notify Topsolaroffers                     promptly in writing pursuant to the DMCA, at the mailing address provided above. Such notification should include: (i) your physical or electronic
                       signature; (ii) identification of the Content that has been removed or to which access has been disabled and the location at which the Content
                        appeared before it was removed or disabled; (iii) a statement that you have a good faith belief that the Content was removed or disabled as a 
                        result of mistake or a misidentification of the Content; and  (iv) your name, address, telephone number, and email address, a statement that you
                         consent to the jurisdiction of the U.S. District Court for the Southern District of Florida, and a statement that you will accept service of 
                         process from the person who provided notification of the alleged infringement.  Furthermore, you should include a clear statement of your acceptance 
                         of process pertaining to the notifying party or the agent of the party as defined in DMCA § 512(c)(1)(C). If a counter-notice is received by the
-                         Copyright Agent, IMG may send a copy of the counter-notice to the original complaining party informing that person that it may replace the
+                         Copyright Agent, Topsolaroffers may send a copy of the counter-notice to the original complaining party informing that person that it may replace the
                           removed Content or cease disabling it in ten (10) business days. Unless the copyright owner files an action seeking a court order against the
                            Content provider or user, the removed Content may be replaced, or access to it restored, in ten (10) to fourteen (14) business days or more after
-                            receipt of the counter-notice, at our sole and absolute discretion.  IMG has a policy of terminating the account of, or denying access or
+                            receipt of the counter-notice, at our sole and absolute discretion.  Topsolaroffers has a policy of terminating the account of, or denying access or
                              use of the Site to, in its sole and absolute discretion, any user who repeatedly infringes the copyrights or other intellectual property rights 
                              of others.
           </p>
                          <br />
 
-                <p class="justify"><b>18. Links to Third-Party Sites.</b> This Site may contain links and pointers to other Internet sites that are not owned or controlled by IMG. IMG has no
+                <p class="justify"><b>18. Links to Third-Party Sites.</b> This Site may contain links and pointers to other Internet sites that are not owned or controlled by Topsolaroffers. Topsolaroffers has no
                  control over, and assumes no responsibility for the products, services, content, privacy policies or practices of any third-party website or application. Links to and
                   from the Site to other sites, maintained by third parties, do not constitute an endorsement by us of such third-party sites or the contents, products or services thereof.
-                   You expressly relieve IMG from any and all liability arising from your use of any linked third-party website or application. Accordingly, we encourage you to be
+                   You expressly relieve Topsolaroffers from any and all liability arising from your use of any linked third-party website or application. Accordingly, we encourage you to be
                     aware when you leave our Site and to read the terms and conditions and privacy policy of each website or application that you access or use.</p>
                     <br />
 
@@ -351,7 +351,7 @@
                      and the remainder of these Terms shall continue in full force and effect.  Except for Sections 11, 12 and 13 above, these Terms do not give rise to any
                       third-party beneficiary rights. All provisions of these Terms shall survive any termination hereof, except for those provisions (like licenses) that are
                        revocable or, by their context, are not intended to survive termination.  You may not assign any of your rights or delegate any of your obligations under
-                        these Terms; IMG may assign or delegate these Terms in whole or in part.</p>
+                        these Terms; Topsolaroffers may assign or delegate these Terms in whole or in part.</p>
 
 
           </div>
