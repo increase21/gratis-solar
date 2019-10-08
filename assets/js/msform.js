@@ -239,13 +239,13 @@ $("#next2").click(function () {
          roofShade: "required",
          monthlyBill: "required",
          currentProvider: "required",
-         tcpaYes: "required"
+         leadid_tcpa_disclosure: "required"
       },
       messages: {
          roofShade: '<i class="fa fa-times-circle"></i>',
          monthlyBill: '<i class="fa fa-times-circle"></i>',
          currentProvider: '<i class="fa fa-times-circle"></i>',
-         tcpaYes: '!'
+         leadid_tcpa_disclosure: '!'
       }
    });
 

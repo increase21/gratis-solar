@@ -1,17 +1,4 @@
 
-
-
-// Billing Addr Checkbox
-/*
-$('#chkTerms').change(function() {
-	if($(this).is(":checked")) 
-	{
-		$('#termsError').css('display', 'none');
-	}
-});
-*/
-
-
 // Field Masks
 $("#phonePrimary").mask("(999) 999-9999", { placeholder: "  " });
 $("#zip").mask("99999", { placeholder: " " });
@@ -64,7 +51,7 @@ $("#msform").validate({
       creditRating: "required",
       projectStatus: "required",
       timeFrame: "required",
-      tcpaYes: "required"
+      leadid_tcpa_disclosure: "required"
    },
    messages: {
       firstName: '<i class="fa fa-times-circle"></i>',
@@ -85,7 +72,7 @@ $("#msform").validate({
       creditRating: '<i class="fa fa-times-circle"></i>',
       projectStatus: '<i class="fa fa-times-circle"></i>',
       timeFrame: '<i class="fa fa-times-circle"></i>',
-      tcpaYes: '!'
+      leadid_tcpa_disclosure: '!'
    }
 });
 
@@ -100,16 +87,18 @@ function DoSignup(form) {
    enrollForm1.validate();
 
    if (enrollForm1.valid()) {
-      //console.log('Form is valid!');
-
+      // get the Leadid
+      let Leadid = $('#leadid_token').val()
       // Live
       var url = "https://gratisdigital.listflex.com/lmadmin/api/leadimport.php?";
       // Test
       //var url = "/_submit-test.php";
-
-      var formData = `apikey=F9AW57HCQW1R4JOM5&list_id=1576&`
+      var formData = `apikey=F9AW57HCQW1R4JOM5&list_id=1576&cust_field_71=${Leadid}&`
+      // get all the form inputs
       formData += $('#msform').serialize();
+      // append the form input with the url
       let callUrl = url + formData
+      // submit to the database
       $.ajax({
          type: "GET",
          url: callUrl,
@@ -130,11 +119,6 @@ function DoSignup(form) {
             }
          })
          .fail(function (jqXHr, textStatus, errorThrown) {
-            // DEBUG
-            //console.log('Fail');
-            //console.log('jqXHr.responseText: ' + jqXHr.responseText);
-            //console.log('textStatus: ' + textStatus);
-            //console.log('errorThrown: ' + errorThrown);
             // show an error message
             $('#modalProcessing').modal('toggle');
             $('#errorContainer').css('display', 'block');
@@ -152,10 +136,9 @@ function DoSignup(form) {
       }, 500);
       $('.error').first().find('input').focus();
    }
-
    return false;
-
 }
+// close the modal once the close btn is clicked
 $('body').on('click', '.modal-btn', function () {
    location.reload()
 })
