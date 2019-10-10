@@ -724,7 +724,7 @@ a.logo {
 }
 
 .box-saving h1 {
-   font-size: 5vw;
+   font-size: 4vw;
    color: #ffcc00;
 }
 
@@ -739,7 +739,7 @@ a.logo {
 }
 
 .box-saving h1 span.x-large {
-   font-size: 6.2vw;
+   font-size: 5.2vw;
    /* font-size: 7.2vw; */
    color: white;
 }
@@ -895,11 +895,20 @@ ul.map-marker .bullet.lighter {
 }
 
 .box-advantage {
+   /* padding: 15px 3em;
+   background: #f5f5f5;
+   margin-bottom: 5em;
+   margin-top: 2em;
+   min-height: 12.5em; */
    padding: 15px 3em;
    background: #f5f5f5;
    margin-bottom: 5em;
    margin-top: 2em;
-   min-height: 12.5em;
+   min-height: 11.5em;
+   /* height: 213px; */
+   max-width: 300px;
+   margin-left: auto;
+   margin-right: auto;
 }
 
 .adv-icon {
@@ -1018,6 +1027,13 @@ footer .copyright {
    color: blue !important
 }
 
+
+@media(max-width:991px) {
+   .box-advantage {
+      min-height: 15.5em;
+   }
+}
+
 /* (320x480) Smartphone, Portrait */
 @media only screen and (min-width: 320px) and (max-width: 550px) {
    .section-top {
@@ -1035,7 +1051,7 @@ footer .copyright {
    }
 
    .box-advantage {
-      min-height: 15.5em;
+      min-height: 10.5em;
       padding: 15px 1em;
       margin-bottom: 2em
    }
@@ -1081,7 +1097,6 @@ footer .copyright {
       text-align: center;
    }
 }
-
 
 /* (1366x768) WXGA Display */
 @media screen and (min-width: 1366px) {
