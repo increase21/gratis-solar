@@ -134,9 +134,6 @@ function doZipLookup() {
       .always(function () {
          //console.log( "complete" );
       });
-
-
-
 }
 
 $('#zip').on('blur', function () {
