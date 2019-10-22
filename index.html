@@ -19,34 +19,29 @@
    <link href="assets/css/style.css" rel="stylesheet">
    <link href="assets/css/msform.css" rel="stylesheet">
    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-   <!-- [if lt IE 9]> -->
-   <!-- <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script> -->
-   <!-- <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script> -->
-   <!-- <![endif] -->
+   <link rel="stylesheet" href="assets/css/leadform2.css" />
    <script type="text/javascript" src="assets/js/jquery-2.1.4.min.js"></script>
    <!-- DO NOT COPY THIS CODE-->
-   <!-- Pixel Code -->
    <script>
-      !function (f, b, e, v, n, t, s) {
-         if (f.fbq) return; n = f.fbq = function () { n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments) };
-         if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
-         n.queue = []; t = b.createElement(e); t.async = !0;
-         t.src = v; s = b.getElementsByTagName(e)[0];
-         s.parentNode.insertBefore(t, s)
-      }(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
-      fbq('init', '584088422131546');
-      fbq('track', 'PageView');
+      dataLayer = [];
    </script>
-   <noscript>
-      <img height="1" width="1" src="https://www.facebook.com/tr?id=584088422131546&ev=PageView&noscript=1" />
-   </noscript>
-   <!-- End Pixel Code -->
+   <!-- Google Tag Manager -->
+   <script>(function (w, d, s, l, i) {
+         w[l] = w[l] || []; w[l].push({
+            'gtm.start':
+               new Date().getTime(), event: 'gtm.js'
+         }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+               'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+      })(window, document, 'script', 'dataLayer', 'GTM-5NXBHWV');</script>
+   <!-- End Google Tag Manager -->
 </head>
 
 <body id="index">
-   <link rel="stylesheet" href="assets/css/leadform2.css" />
+   <!-- Google Tag Manager (noscript) -->
+   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5NXBHWV" height="0" width="0"
+         style="display:none;visibility:hidden"></iframe></noscript>
+   <!-- End Google Tag Manager (noscript) -->
 
    <div class="section-top">
       <div class="container">
@@ -110,9 +105,16 @@
                            <label for="homeOwner" class="control-label">Homeowner?</label>
                            <select class="form-control" id="homeOwner" name="cust_field_65" required="required">
                               <option value="">Are You a Homeowner?</option>
-                              <option value="No">No</option>
-                              <option value="Yes">Yes</option>
-                              <option value="Commercial Property">Commercial Property</option>
+                              <option value="Own">Yes</option>
+                              <option value="Rented">No</option>
+                           </select>
+                        </div>
+                        <div class="form-group">
+                           <label for="propertyType" class="control-label">Authorized For Property Changes?</label>
+                           <select class="form-control" id="authorizeChange" name="cust_field_103" required="required">
+                              <option value="">Do you have Authority?</option>
+                              <option>Yes</option>
+                              <option>No</option>
                            </select>
                         </div>
                         <!-- =========LEADid============ -->
@@ -125,6 +127,14 @@
                         <div class="form-group">
                            <label for="propertyType" class="control-label">Property Type:</label>
                            <select class="form-control" id="propertyType" name="cust_field_66" required="required">
+                              <option value="">Select Type</option>
+                              <option>Residential</option>
+                              <option>Commercial</option>
+                           </select>
+                        </div>
+                        <!-- <div class="form-group">
+                           <label for="propertyType" class="control-label">Property Type:</label>
+                           <select class="form-control" id="propertyType" name="cust_field_66" required="required">
                               <option value="">Property Type?</option>
                               <option>Single Family</option>
                               <option>Multi-Family</option>
@@ -134,7 +144,7 @@
                               <option>Mobile Home</option>
                               <option>Other</option>
                            </select>
-                        </div>
+                        </div> -->
                         <div class="form-group">
                            <label for="roofShade" class="control-label">How much sun on your roof:</label>
                            <select class="form-control" id="roofShade" name="cust_field_67" required>
@@ -317,7 +327,8 @@
 
          <div class="row">
             <div class="col-sm-6 text-center center-block">
-               <a href="index.html#scrollForm" class="btn btn-save btn-block" onclick="fbq('track', 'ViewContent');">Get
+               <!-- <a href="index.html#scrollForm" class="btn btn-save btn-block" onclick="fbq('track', 'ViewContent');">Get -->
+               <a href="index.html#scrollForm" class="btn btn-save btn-block">Get
                   a Quote Today!</a>
             </div>
          </div>

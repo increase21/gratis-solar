@@ -210,13 +210,15 @@ $("#next1").click(function () {
                threshold: 4
             }
          },
-         propertyType: "required"
+         propertyType: "required",
+         authorizeChange: "required"
       },
       messages: {
          address: '<i class="fa fa-times-circle"></i>',
          zip: '<i class="fa fa-times-circle"></i>',
          email: '<i class="fa fa-times-circle"></i>',
-         propertyType: '<i class="fa fa-times-circle"></i>'
+         propertyType: '<i class="fa fa-times-circle"></i>',
+         authorizeChange: '<i class="fa fa-times-circle"></i>'
       }
    });
 

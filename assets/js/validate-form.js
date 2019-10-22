@@ -51,7 +51,8 @@ $("#msform").validate({
       creditRating: "required",
       projectStatus: "required",
       timeFrame: "required",
-      leadid_tcpa_disclosure: "required"
+      leadid_tcpa_disclosure: "required",
+      authorizeChange: "required"
    },
    messages: {
       firstName: '<i class="fa fa-times-circle"></i>',
@@ -72,13 +73,14 @@ $("#msform").validate({
       creditRating: '<i class="fa fa-times-circle"></i>',
       projectStatus: '<i class="fa fa-times-circle"></i>',
       timeFrame: '<i class="fa fa-times-circle"></i>',
+      authorizeChange: '<i class="fa fa-times-circle"></i>',
       leadid_tcpa_disclosure: '!'
    }
 });
 
 
 //$('#submit-form-button').on('click', function(e){
-function DoSignup(form) {
+async function DoSignup(form) {
 
    // Validate the form 1 last time
    //formValidation = $('#enrollForm1').data('formValidation');
@@ -87,13 +89,16 @@ function DoSignup(form) {
    enrollForm1.validate();
 
    if (enrollForm1.valid()) {
+
+      // DO IP LOOKUP BEFORE SUBMITTING THE FORM
+      // Do IP Address Lookup
+      let userIp = await $.getJSON('https://api.ipify.org?format=jsonp&callback=?')
       // get the Leadid
       let Leadid = $('#leadid_token').val()
       // Live
       var url = "https://gratisdigital.listflex.com/lmadmin/api/leadimport.php?";
       // Test
-      //var url = "/_submit-test.php";
-      var formData = `apikey=F9AW57HCQW1R4JOM5&list_id=1576&cust_field_71=${Leadid}&`
+      var formData = `apikey=F9AW57HCQW1R4JOM5&list_id=1576&cust_field_71=${Leadid}&ip=${userIp.ip}&`
       // get all the form inputs
       formData += $('#msform').serialize();
       // append the form input with the url
@@ -112,7 +117,7 @@ function DoSignup(form) {
          .done(function (data) {
             if (data == 'Success') {
                $('.modal-dynamic-content').html(textSuccess)
-               fbq('track', 'CompleteRegistration');
+               dataLayer.push({ 'event': 'CompleteRegistration' });
             }
             else {
                $('.modal-dynamic-content').html(textFail)
