@@ -95,10 +95,12 @@ async function DoSignup(form) {
       let userIp = await $.getJSON('https://api.ipify.org?format=jsonp&callback=?')
       // get the Leadid
       let Leadid = $('#leadid_token').val()
+      // get the URL
+      let originURL = location.href
       // Live
       var url = "https://gratisdigital.listflex.com/lmadmin/api/leadimport.php?";
       // Test
-      var formData = `apikey=F9AW57HCQW1R4JOM5&list_id=1576&cust_field_71=${Leadid}&ip=${userIp.ip}&`
+      var formData = `apikey=F9AW57HCQW1R4JOM5&list_id=1576&cust_field_71=${Leadid}&ip=${userIp.ip}&offer=${originURL}&`
       // get all the form inputs
       formData += $('#msform').serialize();
       // append the form input with the url
