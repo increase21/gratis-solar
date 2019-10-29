@@ -99,8 +99,10 @@ async function DoSignup(form) {
       let originURL = location.href
       // Live
       var url = "https://gratisdigital.listflex.com/lmadmin/api/leadimport.php?";
-      // Test
+      // Live Params
       var formData = `apikey=F9AW57HCQW1R4JOM5&list_id=1576&cust_field_71=${Leadid}&ip=${userIp.ip}&offer=${originURL}&`
+      // Test Params
+      // var formData = `apikey=P7IYXSYHAIFMBQ94FPD&list_id=1575&cust_field_71=${Leadid}&ip=${userIp.ip}&offer=${originURL}&`
       // get all the form inputs
       formData += $('#msform').serialize();
       // append the form input with the url
