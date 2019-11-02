@@ -146,6 +146,7 @@ form p {
 
    border-radius: 30px;
    margin: 0 auto 5px auto;
+   cursor: pointer;
 }
 
 /*progressbar connectors*/

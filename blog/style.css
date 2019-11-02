@@ -161,13 +161,36 @@ footer {
    font-weight: normal !important;
 }
 
+#outerdiv {
+   width: 100%;
+   height: 740px;
+   overflow: hidden;
+   position: relative;
+}
+
+#inneriframe {
+   position: absolute;
+   top: -333px;
+   width: 100%;
+   height: 4000px;
+}
+
+#inneriframe::-webkit-scrollbar {
+   -webkit-appearance: none;
+   width: 2px;
+}
+
+.d-none {
+   display: none;
+}
+
 @media(max-width:991px) {
    .btn {
       font-size: 25px;
    }
 }
 
-@media (max-width:768px) {
+@media (max-width:767px) {
 
    article {
       padding: 2rem .5rem !important;
@@ -193,6 +216,10 @@ footer {
 
    .btn {
       font-size: 20px;
+   }
+
+   #inneriframe {
+      top: -465px;
    }
 }
 
@@ -253,6 +280,10 @@ footer {
    .caption-text {
       text-transform: capitalize;
       font-size: 38px;
+   }
+
+   #inneriframe {
+      height: 2350px;
    }
 }
 

@@ -8,27 +8,29 @@
    <title>Solar Power</title>
    <link rel="shortcut icon" href="../assets/img/favicon.ico" type="image/x-icon" />
    <link href="style.css" rel="stylesheet" />
+   <script type="text/javascript" src="../assets/js/jquery-2.1.4.min.js"></script>
    <!-- Google Tag Manager -->
-   <script>(function (w, d, s, l, i) {
+   <!-- <script>(function (w, d, s, l, i) {
          w[l] = w[l] || []; w[l].push({
             'gtm.start':
                new Date().getTime(), event: 'gtm.js'
          }); var f = d.getElementsByTagName(s)[0],
             j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
                'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-      })(window, document, 'script', 'dataLayer', 'GTM-5NXBHWV');</script>
+      })(window, document, 'script', 'dataLayer', 'GTM-5NXBHWV');</script> -->
    <!-- End Google Tag Manager -->
 </head>
 
 <body>
    <!-- Google Tag Manager (noscript) -->
-   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5NXBHWV" height="0" width="0"
-         style="display:none;visibility:hidden"></iframe></noscript>
+   <!-- <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5NXBHWV" height="0" width="0"
+         style="display:none;visibility:hidden"></iframe></noscript> -->
    <!-- End Google Tag Manager (noscript) -->
    <section>
       <div class="text-center bg-drk py-1">
          <p class="container">
-            Do you know you can save alot by using solar system? <a href="../" class="text-white">Click To See How</a>
+            Do you know you can save alot by using solar system? <a href="#outerdiv"
+               class="text-white display_form">Click To See How</a>
          </p>
       </div>
       <!-- <header>
@@ -55,7 +57,7 @@
                         is
                         the perfect time to do it. Do the math and see how this is for you too!</em>
                   </p>
-                  <a href="../" class="btn">Click Here To See How Much You Can Save Today ➤➤</a>
+                  <a href="#outerdiv" class="btn display_form">Click Here To See How Much You Can Save Today ➤➤</a>
                   <p class="mt-1">
                      <h2>Start enjoying the advantages of installing a solar system at home!</h2>
                      <ul>
@@ -100,7 +102,7 @@
                         funding.</span> Next
                      year this help will be annually reduced by 4%, resulting in only 26% by 2020, 22% by 2021, until
                      finally disappearing by 2022. So this year is your best shot! The perfect time is now!
-                     <a href="../">Get Solar Today!</a>
+                     <a href="#outerdiv" class="display_form">Get Solar Today!</a>
                   </p>
                   <p class="mt-2">
                      <h2>How much can solar lower my home's electricity bill? </h2>
@@ -120,7 +122,7 @@
                         exactly the amount you’ll be saving? Then complete the simple form with just
                         some little property details to get free quotes and find out which rebates are available for you
                         Today !
-                        <br /><a href="../">SEE HOW YOU CAN SAVE WITH SOLAR ENERGY!</a>
+                        <br /><a href="#outerdiv" class="display_form">SEE HOW YOU CAN SAVE WITH SOLAR ENERGY!</a>
 
                      </p>
                      <p class="mt-2">
@@ -148,8 +150,13 @@
                            </li>
                         </ul>
                      </p>
-
-                     <a href="../" class="btn mt-1"> Get Your Free Solar Panel Quotes Today ➤➤</a>
+                     <a href="#outerdiv" class="btn mt-1 display_form" id="submit_btn"> Get Your Free Solar Panel Quotes
+                        Today ➤➤</a>
+                     <!-- <div id="iform"></div> -->
+                     <div id="outerdiv" class="d-none">
+                        <iframe src="../iframe.html#scrollForm" id="inneriframe" frameborder="0"
+                           scrolling="on"></iframe>
+                     </div>
                </div>
          </article>
       </section>
@@ -179,5 +186,13 @@
       </div> -->
    </footer>
 </body>
+<script>
+   $(document).ready(() => {
+      $('.display_form').on('click', () => {
+         $('#submit_btn').addClass('d-none')
+         $('#outerdiv').removeClass('d-none')
+      })
+   })
+</script>
 
 </html>
