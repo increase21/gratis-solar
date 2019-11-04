@@ -107,6 +107,8 @@ async function DoSignup(form) {
       formData += $('#msform').serialize();
       // append the form input with the url
       let callUrl = url + formData
+      // Fire Facebook Pixel for registration
+      dataLayer.push({ 'event': 'CompleteRegistration' });
       // submit to the database
       $.ajax({
          type: "GET",
@@ -121,7 +123,6 @@ async function DoSignup(form) {
          .done(function (data) {
             if (data == 'Success') {
                $('.modal-dynamic-content').html(textSuccess)
-               dataLayer.push({ 'event': 'CompleteRegistration' });
             }
             else {
                $('.modal-dynamic-content').html(textFail)
