@@ -10,21 +10,21 @@
    <link href="style.css" rel="stylesheet" />
    <script type="text/javascript" src="../assets/js/jquery-2.1.4.min.js"></script>
    <!-- Google Tag Manager -->
-   <!-- <script>(function (w, d, s, l, i) {
+   <script>(function (w, d, s, l, i) {
          w[l] = w[l] || []; w[l].push({
             'gtm.start':
                new Date().getTime(), event: 'gtm.js'
          }); var f = d.getElementsByTagName(s)[0],
             j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
                'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-      })(window, document, 'script', 'dataLayer', 'GTM-5NXBHWV');</script> -->
+      })(window, document, 'script', 'dataLayer', 'GTM-5NXBHWV');</script>
    <!-- End Google Tag Manager -->
 </head>
 
 <body>
    <!-- Google Tag Manager (noscript) -->
-   <!-- <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5NXBHWV" height="0" width="0"
-         style="display:none;visibility:hidden"></iframe></noscript> -->
+   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5NXBHWV" height="0" width="0"
+         style="display:none;visibility:hidden"></iframe></noscript>
    <!-- End Google Tag Manager (noscript) -->
    <section>
       <div class="text-center bg-drk py-1">
@@ -154,8 +154,7 @@
                         Today ➤➤</a>
                      <!-- <div id="iform"></div> -->
                      <div id="outerdiv" class="d-none">
-                        <iframe src="../iframe.html#scrollForm" id="inneriframe" frameborder="0"
-                           scrolling="on"></iframe>
+                        <iframe src="" id="inneriframe" frameborder="0" scrolling="on"></iframe>
                      </div>
                </div>
          </article>
@@ -189,6 +188,7 @@
 <script>
    $(document).ready(() => {
       $('.display_form').on('click', () => {
+         $('#outerdiv iframe').prop('src', '../iframe.html#scrollForm')
          $('#submit_btn').addClass('d-none')
          $('#outerdiv').removeClass('d-none')
       })
