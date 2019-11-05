@@ -157,7 +157,8 @@
                         Today ➤➤</a>
                      <!-- <div id="iform"></div> -->
                      <div id="outerdiv" class="d-none">
-                        <iframe src="" id="inneriframe" frameborder="0" scrolling="on"></iframe>
+                        <iframe src="../blogform.html#scrollForm" id="inneriframe" frameborder="0"
+                           scrolling="on"></iframe>
                      </div>
                </div>
          </article>
@@ -191,11 +192,10 @@
 <script>
    $(document).ready(() => {
       $('.display_form').on('click', () => {
-         $('#outerdiv iframe').prop('src', '../blogform.html#scrollForm')
+         // $('#outerdiv iframe').prop('src', '../blogform.html#scrollForm')
          $('#submit_btn').addClass('d-none')
          $('#outerdiv').removeClass('d-none')
       })
-      dataLayer.push({ 'event': 'CompleteRegistration' });
    })
 </script>
 
