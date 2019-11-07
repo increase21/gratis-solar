@@ -79,8 +79,11 @@ $("#msform").validate({
 });
 
 
-//$('#submit-form-button').on('click', function(e){
-async function DoSignup(form) {
+$('#submitButton').on('click', async (e) => {
+   e.preventDefault()
+   e.stopImmediatePropagation()
+
+   // async function DoSignup(form) {
 
    // Validate the form 1 last time
    //formValidation = $('#enrollForm1').data('formValidation');
@@ -89,7 +92,7 @@ async function DoSignup(form) {
    enrollForm1.validate();
 
    if (enrollForm1.valid()) {
-
+      $('#submitButton').prop('disabled', true)
       // DO IP LOOKUP BEFORE SUBMITTING THE FORM
       // Do IP Address Lookup
       let userIp = await $.getJSON('https://api.ipify.org?format=jsonp&callback=?')
@@ -146,8 +149,7 @@ async function DoSignup(form) {
       }, 500);
       $('.error').first().find('input').focus();
    }
-   return false;
-}
+})
 // close the modal once the close btn is clicked
 $('body').on('click', '.modal-btn', function () {
    location.reload()
