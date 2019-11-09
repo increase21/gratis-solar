@@ -103,8 +103,8 @@ $('#submitButton').on('click', async (e) => {
       // Live
       var url = "https://gratisdigital.listflex.com/lmadmin/api/leadimport.php?";
       // get all the form inputs
-      // Live Params
       let formData = $('#msform').serialize();
+      // Live Params
       formData += `&apikey=F9AW57HCQW1R4JOM5&list_id=1576&cust_field_71=${Leadid}&ip=${userIp.ip}&offer=${originURL}`
       // Test Params
       // var formData = `apikey=P7IYXSYHAIFMBQ94FPD&list_id=1575&cust_field_71=${Leadid}&ip=${userIp.ip}&offer=${originURL}&`
